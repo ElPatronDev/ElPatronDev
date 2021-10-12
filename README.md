@@ -2,7 +2,7 @@
 
 - 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/elpatrondev/">ElPatron</a>
 - 📭 Discord: ElPatron#1119
-- 🌎 Fivem Server: <a href="https://servers.fivem.net/servers/detail/ydelrj">ElPatron</a>
+- 🌎 Fivem Server: <a href="https://servers.fivem.net/servers/detail/ydelrj">Nueva Era</a>
 
 ## 🔐 Projects:
 
