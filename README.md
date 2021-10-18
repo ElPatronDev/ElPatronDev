@@ -1,13 +1,11 @@
 # Hi, how are you? My aka is "ElPatron"!
 
 - 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/elpatrondev/">ElPatron</a>
-- 📭 Discord: ElPatron#1119
-- 🌎 Fivem Server: <a href="https://servers.fivem.net/servers/detail/ydelrj">Nueva Era</a>
+- 📭 Discord: ElPatron#1119 
 
 ## 🔐 Projects:
 
-- 📍 Right now I am involved in several projects with my 5m partners.
-- 💧 I am currently working on my own RP server called Nueva Era.
+- 📍 Right now I am involved in several projects with my 5m partners. 
 
 
 
